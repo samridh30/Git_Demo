@@ -18,6 +18,7 @@ public class Git {
 		      System.out.println(num + " is a prime number.");
 		    else
 		      System.out.println(num + " is not a prime number.");
+		    //the change has been done here.
 		  }
 		}
 
